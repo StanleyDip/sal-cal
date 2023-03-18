@@ -1,1 +1,1 @@
-# sal-cal (https://stanleydip.github.io/sal-cal/)
+# [sal-cal](https://stanleydip.github.io/sal-cal/)
